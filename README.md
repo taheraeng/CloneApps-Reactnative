@@ -1,2 +1,2 @@
 # CloneApps-Reactnative
-ReactNative Clone
+ReactNative Clone Script Original
